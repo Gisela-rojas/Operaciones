@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc6f4d80-aa6f-4eb7-b182-62cb161d8697" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Operaciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio05/Suma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio05/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio06/Suma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio06/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio07/lib/Suma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio07/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saludo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaludoMain.py" afterDir="false" />
-    </list>
+    <list default="true" id="dc6f4d80-aa6f-4eb7-b182-62cb161d8697" name="Changes" comment="Varias versiones de la suma" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gisela &lt;77178317@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -48,19 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Ejercicio02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejercicio03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Saludo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ejercicio02.executor": "Run",
+    "Python.Ejercicio03.executor": "Run",
+    "Python.Saludo.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/PROYECTO/Operaciones",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Proyectos\Operaciones\Ejercicio07\lib" />
@@ -106,7 +93,36 @@
       <option name="presentableId" value="Default" />
       <updated>1712604072407</updated>
     </task>
+    <task id="LOCAL-00001" summary="Varias versiones de la suma">
+      <option name="closed" value="true" />
+      <created>1712783771013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712783771013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Varias versiones de la suma">
+      <option name="closed" value="true" />
+      <created>1712783834929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712783834929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Varias versiones de la suma">
+      <option name="closed" value="true" />
+      <created>1712783891788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712783891788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Varias versiones de la suma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Varias versiones de la suma" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
